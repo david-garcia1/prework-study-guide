@@ -18,8 +18,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 Here are some steps you can follow to download the study guide for yourself
 1. Download gitbash from https://git-scm.com/downloads for windows, and https://mac.install.guide/git/#:~:text=Git%20is%20an%20important%20developer,projects%20using%20Git%20and%20GitHub. for mac
 2. 
-visit https://github.com/david-garcia1/prework-study-guide
-you will wnat to create an account.
+visit https://github.com/david-garcia1/prework-study-guide and download the files,
+you will want to create an account.
 
 
 ## Usage
